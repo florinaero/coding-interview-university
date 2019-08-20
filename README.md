@@ -224,7 +224,8 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 `git rebase jwasham/master`
 
 `git push --force`
-[X] dummy markdown
+
+[x] dummy markdown
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
